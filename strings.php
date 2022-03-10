@@ -209,7 +209,19 @@ return $strings = array(
     'To empower every Turkic nation on the planet to achieve more, develop better and preserve language, culture and traditions'=>'Планетасындагы һәр төрки халыкка күбрәк нәрсәгә ирешү, яхшырак үсеш һәм тел, мәдәният һәм гореф-гадәтләрне саклау',
     'How do you rate this article'=>'Сез бу мәкаләне ничек бәялисез',
     'Rating'=>'Рейтинг',
-    'signin'=>'керегез',
-    'Signin to access system advanced features'=>'Системаның алдынгы функцияләренә керү өчен керегез',
+    'sign in'=>'керегез',
+    'Sign in to access system advanced features'=>'Системаның алдынгы функцияләренә керү өчен керегез',
+
+    'register'=>'теркәлү',
+    'Close sign in form'=>'Формада билге ябу',
+    'Not registered?'=>'Теркәлмәгәнме?',
+    'Create an account'=>'Хисап язма ясарга',
+    'sign out'=>'чыгарга',
+    'Please check input fields and try again'=>'Зинһар, кертү кырларын тикшерегез һәм кабатлап карагыз',
+    'Close registration form'=>'Теркәлү формасын ябу',
+    'TDCoin address'=>'TDCoin адресы',
+    'password'=>'серсүз',
+    'signature'=>'имза',
+    'Already registered?'=>'Инде теркәлгәнме?',
 );
 ?>
